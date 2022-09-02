@@ -6,14 +6,10 @@ namespace hideki.aula.definir
     {
         static void Main(string[] args)
         {
-            //                 Variaveis
-
-            //                                      Terceiro Programa - (CALCULADORA)
+            //                                      Terceiro Programa Aula 2 - (CALCULADORA)
 
 
             //Variaveis
-
-            
             string operacao;
             double valor1, valor2;
 
@@ -51,10 +47,6 @@ namespace hideki.aula.definir
             {
                 Console.WriteLine("Algo deu errado na esolha de suas operações!");
             }
-            
-
-
-
         }
     }
 }
